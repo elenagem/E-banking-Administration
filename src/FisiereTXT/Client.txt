@@ -1,0 +1,4 @@
+Mirea,Diana,0721123456,mirea.diana@yahoo.comRO1234567894800.0
+Breazu,Radu,0732123456,breazu.radu@yahoo.comRO9876543213200.0
+Alecu,Catalin,0732123444,alecu.catalin@yahoo.comRO4567890127000.0
+Preda,Ioana,0732123333,preda.ioana@yahoo.comRO3456789012000.0
